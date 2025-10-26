@@ -25,4 +25,4 @@ USB-B mini/micro existen para equipos compactos, con variantes y formas específ
 ## Fuentes
 - https://autowiringpro.com/usb-b-type-connector/
 
-- https://www.aggsoft.com/usb-pinout-cable/usb2.htm
+- https://www.aggsoft.com/usb-pinout-cable/usb2.html
