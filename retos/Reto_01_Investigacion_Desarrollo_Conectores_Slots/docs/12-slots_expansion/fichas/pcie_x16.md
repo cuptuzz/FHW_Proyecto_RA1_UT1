@@ -16,4 +16,4 @@
 ![PCIe x16](../../../assets/img/12-slots_expansion/pcie_x16.jpg "PCIe x16")
 
 ## Fuentes
-- https://pcisig.com/
+- https://pinoutguide.com/Slots/pci_express_pinout.shtml

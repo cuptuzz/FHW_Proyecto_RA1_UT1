@@ -13,7 +13,7 @@
 - Requisitos de cable para 40 Gbps/240 W; DP Alt Mode para vídeo si no es TB.
 
 ## Fotos
-![USB-C](../../../assets/img/20-conectores_externos/usb_c.jpg "USB-C")
+![USB-C](../../../assets/img/20-conectores_externos/USB_C_USB4.jpg "USB-C")
 
 ## Fuentes
-- https://usb.org/
+- https://www.wevolver.com/article/usb-c-pinout-in-depth-a-comprehensive-technical-guide-for-engineers

@@ -5,4 +5,4 @@
 **Alumno/a:** _Nombre Apellidos_  
 **Curso:** 2025/26
 
-![Portada](../assets/img/00-portada/portada.png "Portada")
+![Portada](../assets/img/00-portada/portada.jpg "Portada")
