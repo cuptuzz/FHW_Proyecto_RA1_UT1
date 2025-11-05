@@ -2,16 +2,16 @@
 
 > **Instrucciones:** Copia aquí el contenido final de cada sección (puedes mantener los enlaces relativos a imágenes).
 
-COPIAR: Portada, indiccee y intorducción
+COPIAR: Portada, indice e intorducción
 
 ## 1) Tabla comparativa de materiales
-(pegado desde `10-tabla_materiales/tu_tabla_materiales.md`)
+![Tabla de materiales](/retos/Reto_02_Analisis_Chasis/docs/10-tabla_materiales/tu_tabla_materiales.md "Tabla de materiales")
 
 ## 2) Formatos: diagrama y análisis
-(pegado desde `20-formatos_y_diagrama/tu_diagrama_y_analisis.md` con la(s) imagen(es))
+[Formatos y diagrama](/retos/Reto_02_Analisis_Chasis/docs/20-formatos_y_diagrama/diagrama_01.jpg)
 
 ## 3) Caso práctico
-(pegado desde `30-caso_practico/tu_resolucion_caso.md`)
+[Caso práctico](/retos/Reto_02_Analisis_Chasis/docs/30-caso_practico/tu_resolucion_caso.md)
 
 ## 4) Reflexión personal
-(pegado desde `40-reflexion_personal/tu_reflexion.md`)
+[Reflexión personal](/retos/Reto_02_Analisis_Chasis/docs/40-reflexion_personal/tu_reflexion.md)
