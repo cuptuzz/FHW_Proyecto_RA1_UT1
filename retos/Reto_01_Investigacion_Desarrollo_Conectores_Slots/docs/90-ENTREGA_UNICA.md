@@ -38,6 +38,16 @@
 (Pega aquí las fichas finales de esta sección)
 
 <a id="6-bibliografia"></a>
-## 6. Bibliografía
-(Pega aquí la bibliografía consolidada)
+- https://www.tomshardware.com/news/16-pin-power-connector-gets-a-much-needed-revision-meet-the-new-12v-2x6-connector
 
+- https://gamertech.org/singlenews/12V-2x6
+
+- https://www.moddiy.com/pages/Power-Supply-Connectors-and-Pinouts.html
+
+- https://support.exxactcorp.com/hc/en-us/articles/20180443940119-PCIe-8-pin-vs-EPS-12V-8-pin-power-connections
+
+- https://www.corsair.com/us/en/explorer/diy-builder/power-supply-units/individual-8-pin-vs-pigtail-connectors-for-gpus/
+
+- https://en.wikipedia.org/wiki/PCI_Express#6-_and_8-pin_power_connectors
+
+- https://pinoutguide.com/Power/sata-power_pinout.shtml
