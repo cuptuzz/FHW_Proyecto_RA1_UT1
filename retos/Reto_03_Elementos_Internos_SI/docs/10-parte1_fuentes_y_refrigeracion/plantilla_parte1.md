@@ -39,9 +39,18 @@
 **Notas/criterios de la tienda 3:PcComponentes, tienda líder en hardware de PC en España.**
 
 #### Tabla **resumen comparativa** (global, 9 modelos)
-| Tienda | Tipo | Marca/Modelo | Potencia (W) | 80 PLUS | Precio (€) | Modularidad | PFC | Dimensiones (mm) | Observaciones |
-|--------|------|---------------|--------------|---------|-----------:|------------|-----|------------------|---------------|
-|        |      |               |              |         |            |            |     |                  |               |
+| Tienda        | Tipo | Marca/Modelo                  | Potencia (W) | 80 PLUS | Precio (€) | Modularidad | PFC    | Dimensiones (mm) | Observaciones                |
+|---------------|------|-------------------------------|--------------|---------|------------|-------------|--------|------------------|------------------------------|
+| Amazon        | ATX  | Corsair RM1000e               | 1000         | Gold    | 189,90     | Full        | Activo | 160x150x86       | Garantía 10 años             |
+| Amazon        | SFX  | Cooler Master V750 SFX Gold   | 750          | Gold    | 159,99     | Full        | Activo | 100x125x63,5     | Muy compacta                 |
+| Amazon        | TFX  | SilverStone TX700             | 700          | Gold    | 164,03     | Full        | Activo | 175x85x65        | Protección completa          |
+| Coolmod       | ATX  | be quiet! Dark Power 14       | 1200         | Titanium| 315,96     | Full        | Activo | 175x150x86       | Tope de gama, silenciosa     |
+| Coolmod       | SFX  | Asus ROG Loki SFX-L           | 850          | Platinum| 239,95     | Full        | Activo | 125x125x63,5     | Iluminación RGB              |
+| Coolmod       | TFX  | CoolBox TBZ300                | 300          | Bronze  | 26,95      | No          | Activo | 175x85x65        | Básica, económica            |
+| PcComponentes | ATX  | ASUS ROG THOR 1600T           | 1600         | Titanium| 833,25     | Full        | Activo | 190x150x86       | Premium, display OLED        |
+| PcComponentes | SFX  | Thermaltake Toughpower SFX    | 550          | Gold    | 157,68     | Full        | Activo | 100x125x63,5     | Eco, buena relación calidad  |
+| PcComponentes | TFX  | Be quiet! TFX Power 3         | 300          | Gold    | 85,85      | No          | Activo | 175x85x65        | Compacta y silenciosa        |
+
 
 ---
 ## Actividad B — **Refrigeración para la MISMA CPU** (Líquida vs Pasiva)
@@ -52,13 +61,14 @@
 3. Compara **precio, eficiencia térmica (TDP soportado/temperaturas), ruido, dimensiones, compatibilidad de socket, mantenimiento, garantía**…
 4. **Concluye** con recomendaciones por perfil (**gamer**, **diseño/pro**, **usuario estándar**) y **calidad-precio**.
 
-**CPU elegida:** ________________________________
+**CPU elegida:** AMD Ryzen 7 9800X3D
 
 ### Modelos evaluados
-| Tipo | Marca/Modelo | Precio (€) | TDP soportado / Rendimiento térmico | Ruido (dBA) | Dimensiones (mm) | Sockets | Mantenimiento | Garantía | Enlace |
-|------|---------------|-----------:|-------------------------------------|-------------|------------------|---------|---------------|----------|--------|
-| Líquida (AIO) |    |            |                                     |             |                  |         |               |          |        |
-| Pasiva        |    |            |                                     |             |                  |         |               |          |        |
+| Tipo           | Marca/Modelo                | Precio (€) | TDP soportado / Rendimiento térmico | Ruido (dBA) | Dimensiones (mm)        | Sockets             | Mantenimiento | Garantía | Enlace |
+|----------------|-----------------------------|-----------:|-------------------------------------|-------------|-------------------------|---------------------|---------------|----------|--------|
+| Líquida (AIO)  | Corsair NAUTILUS 240 RS ARGB| 114,90     | Hasta 250W / óptima para OC y gaming|  20-34 dB   |120x24cmx275x125mm,1,93kg| AM5, AM4, LGA 1700  |     Anual     |  5 años  |https://www.pccomponentes.com/corsair-nautilus-240-rs-argb-kit-refrigeracion-liquida-240mm-negro|
+| Pasiva         |Thermalright                 | 81,99      | Hasta 220W                          |   25,6 dB   |125x120x154mm, 765g      |AM5, AM4, LGA1700/1200/1156/1151/1150| Nulo          | 2 años   |https://www.pccomponentes.com/ventilador-cpu-thermalright-phantom-spirit-120-se-argb-ventilador-cpu-120mm-negro |
+
 
 ### Análisis y elección por perfil
 - **Gamer:**  

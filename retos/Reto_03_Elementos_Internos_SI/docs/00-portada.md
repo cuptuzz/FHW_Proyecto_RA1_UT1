@@ -3,4 +3,4 @@
 **Alumno/a:** Apellido1 Apellido2, Nombre  
 **Grupo:**  
 **Fecha:**  
-**Repositorio:** (URL opcional)
+**Repositorio:** [Portada](/retos/Reto_03_Elementos_Internos_SI/img/portada_reto_03.jpg)
