@@ -71,9 +71,22 @@
 
 
 ### Análisis y elección por perfil
-- **Gamer:**  
-- **Profesional de diseño/simulación:**  
+- **Gamer:**
+
+    Elección: Líquida (Corsair NAUTILUS 240 RS ARGB).
+
+    Justificación: El AMD Ryzen 7 9800X3D es una CPU de alto rendimiento diseñada para juegos. Bajo cargas intensas y continuadas de gaming, la refrigeración líquida suele mantener picos de temperatura más controlados, permitiendo que el procesador mantenga sus frecuencias turbo al máximo (boost) sin sufrir estrangulamiento térmico (throttling). Además, estéticamente encaja mejor en configuraciones gaming con cristal templado.
+
+- **Profesional de diseño/simulación:**
+    Elección: Pasiva (Thermalright Phantom Spirit 120 SE).
+
+    Justificación: En un entorno profesional se prioriza la fiabilidad y la durabilidad por encima de la estética. Este sistema pasivo (por aire) elimina los puntos de fallo críticos de las líquidas (rotura de bomba, evaporación del líquido o fugas). Al ser un disipador de doble torre muy robusto, ofrece un rendimiento térmico casi idéntico a una líquida de 240mm, asegurando que la estación de trabajo funcione sin mantenimiento durante toda su vida útil.  
+
 - **Usuario estándar/ofimática:**  
+    Elección: Pasiva (Thermalright Phantom Spirit 120 SE).
+
+    Justificación: Para un uso estándar, este procesador rara vez alcanzará su TDP máximo. La solución pasiva es considerablemente más económica y, en reposo o baja carga, resulta más silenciosa al no tener el zumbido constante de la bomba de agua que tienen las AIO. Es la opción más lógica por coste-efectividad y simplicidad de montaje.
 
 ### Conclusión general
 (Síntesis de hallazgos, relación calidad-precio y adecuación por necesidad/presupuesto)
+Para la gran mayoría de la gente (incluso para trabajar), lo más recomendable es la refrigeración Pasiva (por aire). Es más barata, te va a durar toda la vida y no da problemas. La líquida solo merece la pena si eres un gamer muy exigente que quiere que el PC se vea espectacular o si vas a exprimir el procesador al límite todo el rato.
